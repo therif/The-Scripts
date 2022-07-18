@@ -1,8 +1,9 @@
 # SCRIPTS Collection
-My Script Collection for CPanel / WHM 
+Just My Script Collection
 
 
 # For CPanel / WHM
+My Script Collection for CPanel / WHM
 
 
 # For Ubuntu OS

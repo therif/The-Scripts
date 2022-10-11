@@ -1,0 +1,3 @@
+	location /subfolder/ {
+		try_files $uri $uri/ /subfolder/public/index.php$is_args$args;		
+	}

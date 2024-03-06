@@ -15,3 +15,6 @@ sudo apt upgrade -y
 
 #Then run manual NMTUI to set network
 echo "Run on terminal with command: nmtui"
+echo "Jangan lupa bagian ipv4 set manual"
+echo "-- isi IP, Gateway dan dns (Samakan dgn gateway)"
+
